@@ -1,0 +1,13 @@
+.hidden {
+    display: none;
+}
+  
+.my-badge {
+    position: relative;
+}
+
+.my-badge .badge {
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
